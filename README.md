@@ -4,25 +4,6 @@ Manual Testing Project designed to demonstrate the practical application of soft
 
 This repository provides a comprehensive **Manual Testing Project** showcasing real-world QA documentation. It includes a detailed **Test Plan**, structured **Test Cases**, and sample **Defect Reports** that demonstrate the end-to-end manual testing process.
 
-## 📁 Repository Structure
-
-Manual-Testing-Project/
-├── 📄 Test_Plan/
-│ └── Test_Plan_Document.pdf / .docx
-├── ✅ Test_Cases/
-│ ├── Functional_Test_Cases.xlsx
-│ ├── Regression_Test_Cases.xlsx
-│ └── UAT_Test_Cases.xlsx
-├── 🐞 Defect_Reports/
-│ └── Defect_Tracker.xlsx
-└── 📊 Templates/
-├── Test_Case_Template.xlsx
-└── Bug_Report_Template.xlsx
-
-markdown
-Copy
-Edit
-
 ## 📑 Test Plan Includes
 
 - Project overview and testing objectives  
